@@ -6,7 +6,7 @@
 int main() {
     // Write C code here
  //   printf("Hello world");
-
+//trying
 int t;
 printf("Enter the Size of Array :");
 scanf("%d",&t);
